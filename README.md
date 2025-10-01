@@ -25,8 +25,9 @@
 - (this->) Github repo: [https://github.com/MOHD-SHAMOON-04/gmo-assign](https://github.com/MOHD-SHAMOON-04/gmo-assign)
 
 ## just a sidenote
-(PS: copied from internshala chat)
+(PS: copied from internshala chat)  
 Sir, there's a small issue. I have tested the mock API, and it is not consistent. For example, when we try to retrieve data from, say, page number 2, the first few loads provide consistent data, but over time, the data changes. I have noticed this happening quite often because the id parameter keeps changing.  
+
 Since we don't control the server in any way, there's not much we can do about it. Also, because we have no data modification access to that API, we can't use server-side logic to mark or check any data points. We will have to rely solely on client-side logic (which I have implemented), but please be aware that it might become outdated at any time, and all our checkbox data may eventually be lost.
 
 Thanks and Regards
