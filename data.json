@@ -1,0 +1,2389 @@
+{
+  "pagination": {
+    "total": 129720,
+    "limit": 12,
+    "offset": 0,
+    "total_pages": 10810,
+    "current_page": 1,
+    "next_url": "https:\/\/api.artic.edu\/api\/v1\/artworks?page=2"
+  },
+  "data": [
+    {
+      "id": 80385,
+      "api_model": "artworks",
+      "api_link": "https:\/\/api.artic.edu\/api\/v1\/artworks\/80385",
+      "is_boosted": false,
+      "title": "Fragment of a Furnishing Textile with Mounted Rider",
+      "alt_titles": null,
+      "thumbnail": {
+        "lqip": "data:image\/gif;base64,R0lGODlhBAAFAPQAAGtYUHtkUnplVXpmWnxpXIRvXpyJeKWOdKWPdauTdqqXh7Kcgr+pjb6ojsOulMazndzKsObUuvXky\/TlywAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoMQk0SMEjAEQiDIUiOQsUAgAOw==",
+        "width": 6111,
+        "height": 6903,
+        "alt_text": "A work made of linen and wool, slit and dovetailed tapestry weave with eccentric wefts and supplementary wrapping weft details; edged by plain weave with supplementary wrapping wefts forming uncut loop pile."
+      },
+      "main_reference_number": "1921.43",
+      "has_not_been_viewed_much": true,
+      "boost_rank": null,
+      "date_start": 301,
+      "date_end": 499,
+      "date_display": "4th-5th century",
+      "date_qualifier_title": "Made",
+      "date_qualifier_id": 4,
+      "artist_display": "Byzantine\nEgypt",
+      "place_of_origin": "Egypt",
+      "description": "<p>This fragment of a larger furnishing textile may have covered a bed or a sofa. The purple square, carefully woven with a tapestry technique, features contemporary imagery related to hunting, with a central rider on horseback encircled by medallions of vegetation and animals. The complete piece, comprised largely of loop pile weave, would have functioned as padding to create a soft surface. The inclusion of such a detailed tapestry design demonstrates that even an object made for comfort could also introduce rich and colorful adornment into the home.<\/p>\n",
+      "short_description": null,
+      "dimensions": "59.2 \u00d7 51 cm (23 1\/4 \u00d7 20 1\/8 in.)",
+      "dimensions_detail": [
+        {
+          "depth": null,
+          "width": 51,
+          "height": 59,
+          "diameter": null,
+          "clarification": null
+        }
+      ],
+      "medium_display": "Linen and wool, slit and dovetailed tapestry weave with eccentric wefts and supplementary wrapping weft details; edged by plain weave with supplementary wrapping wefts forming uncut loop pile",
+      "inscriptions": null,
+      "credit_line": "Gift of Martin A. Ryerson through the Antiquarian Society",
+      "catalogue_display": null,
+      "publication_history": null,
+      "exhibition_history": "Art Institute of Chicago, Grave Goods from Ancient Cultures, Department of European Decorative Arts, Nov. 9, 1991- May 17, 1992.",
+      "provenance_text": "Martin A. Ryerson (1856-1932), Chicago, by 1921 [Day Book 9, 150]; given to the Art Institute of Chicago, 1921.",
+      "edition": null,
+      "publishing_verification_level": "Web Cataloged",
+      "internal_department_id": 4,
+      "fiscal_year": null,
+      "fiscal_year_deaccession": null,
+      "is_public_domain": true,
+      "is_zoomable": true,
+      "max_zoom_window_size": -1,
+      "copyright_notice": null,
+      "has_multimedia_resources": false,
+      "has_educational_resources": false,
+      "has_advanced_imaging": false,
+      "colorfulness": 0,
+      "color": {
+        "h": 353,
+        "l": 30,
+        "s": 10,
+        "percentage": 0.0007846533561484927,
+        "population": 331
+      },
+      "latitude": null,
+      "longitude": null,
+      "latlon": null,
+      "is_on_view": true,
+      "on_loan_display": null,
+      "gallery_title": "Gallery 153",
+      "gallery_id": 26776,
+      "nomisma_id": null,
+      "artwork_type_title": "Textile",
+      "artwork_type_id": 5,
+      "department_title": "Textiles",
+      "department_id": "PC-14",
+      "artist_id": 37902,
+      "artist_title": "Byzantine",
+      "alt_artist_ids": [],
+      "artist_ids": [
+        37902
+      ],
+      "artist_titles": [
+        "Byzantine"
+      ],
+      "category_ids": [
+        "PC-14"
+      ],
+      "category_titles": [
+        "Textiles"
+      ],
+      "term_titles": [
+        "roman period (egyptian)",
+        "textile",
+        "rider",
+        "linen",
+        "tapestry weaving",
+        "weaving",
+        "coptic (period)",
+        "medallions",
+        "animals",
+        "horse",
+        "wool (textile)",
+        "dove-tailed tapestry weave",
+        "plain weaving",
+        "slit tapestry weaving",
+        "weaving"
+      ],
+      "style_id": "TM-4315",
+      "style_title": "roman period (egyptian)",
+      "alt_style_ids": [
+        "TM-4407"
+      ],
+      "style_ids": [
+        "TM-4315",
+        "TM-4407"
+      ],
+      "style_titles": [
+        "roman period (egyptian)",
+        "coptic (period)"
+      ],
+      "classification_id": "TM-69",
+      "classification_title": "textile",
+      "alt_classification_ids": [
+        "TM-159"
+      ],
+      "classification_ids": [
+        "TM-69",
+        "TM-159"
+      ],
+      "classification_titles": [
+        "textile",
+        "weaving"
+      ],
+      "subject_id": "TM-14395",
+      "alt_subject_ids": [
+        "TM-11227",
+        "TM-12218",
+        "TM-14272"
+      ],
+      "subject_ids": [
+        "TM-14395",
+        "TM-11227",
+        "TM-12218",
+        "TM-14272"
+      ],
+      "subject_titles": [
+        "rider",
+        "medallions",
+        "animals",
+        "horse"
+      ],
+      "material_id": "TM-14007",
+      "alt_material_ids": [
+        "TM-2581"
+      ],
+      "material_ids": [
+        "TM-14007",
+        "TM-2581"
+      ],
+      "material_titles": [
+        "linen",
+        "wool (textile)"
+      ],
+      "technique_id": "TM-10470",
+      "alt_technique_ids": [
+        "TM-11701",
+        "TM-10513",
+        "TM-10609",
+        "TM-4292"
+      ],
+      "technique_ids": [
+        "TM-10470",
+        "TM-11701",
+        "TM-10513",
+        "TM-10609",
+        "TM-4292"
+      ],
+      "technique_titles": [
+        "tapestry weaving",
+        "dove-tailed tapestry weave",
+        "plain weaving",
+        "slit tapestry weaving",
+        "weaving"
+      ],
+      "theme_titles": [],
+      "image_id": "5d9da161-6181-fc03-534e-9b5905b71b6a",
+      "alt_image_ids": [],
+      "document_ids": [],
+      "sound_ids": [],
+      "video_ids": [],
+      "text_ids": [],
+      "section_ids": [],
+      "section_titles": [],
+      "site_ids": [],
+      "suggest_autocomplete_all": [
+        {
+          "input": [
+            "1921.43"
+          ],
+          "contexts": {
+            "groupings": [
+              "accession"
+            ]
+          }
+        },
+        {
+          "input": [
+            "Fragment of a Furnishing Textile with Mounted Rider"
+          ],
+          "weight": 21,
+          "contexts": {
+            "groupings": [
+              "title"
+            ]
+          }
+        }
+      ],
+      "source_updated_at": "2025-10-01T09:24:15-05:00",
+      "updated_at": "2025-10-01T09:25:21-05:00",
+      "timestamp": "2025-10-01T09:33:20-05:00"
+    },
+    {
+      "id": 146910,
+      "api_model": "artworks",
+      "api_link": "https:\/\/api.artic.edu\/api\/v1\/artworks\/146910",
+      "is_boosted": false,
+      "title": "Sequel",
+      "alt_titles": null,
+      "thumbnail": {
+        "lqip": "data:image\/gif;base64,R0lGODlhBwAFAPUAAH5SJEBAQEdISlBSVVZWVlZYWmBfX2BgX2BhYWZjYGZlY29saG9ua393bHFxcHZ3d3d5e4JUIIxgLZV5V5h4U4J8c3+Af6GBV5iAY4eDfISCfpiGcJ2LcqGGZKyNZKqNaK+Wc7mgfH5\/gQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhwICgcGAgCInNhOJpDBafCEACcihClw6GkzFUNBYR5BEEADs=",
+        "width": 2969,
+        "height": 2250,
+        "alt_text": "Sculptural work of walnut-like pieces piled up on top of a cloth."
+      },
+      "main_reference_number": "1997.143",
+      "has_not_been_viewed_much": false,
+      "boost_rank": null,
+      "date_start": 1967,
+      "date_end": 1968,
+      "date_display": "1967\/68",
+      "date_qualifier_title": "",
+      "date_qualifier_id": null,
+      "artist_display": "Eva Hesse\nAmerican, born  Germany, 1936\u20131970",
+      "place_of_origin": "United States",
+      "description": null,
+      "short_description": null,
+      "dimensions": "Sheet: 76.2 \u00d7 81.3 cm (30 \u00d7 32 in.); Each sphere: H.: 6.6 cm (2 5\/8 in.)",
+      "dimensions_detail": [
+        {
+          "depth": null,
+          "width": 81,
+          "height": 76,
+          "diameter": null,
+          "clarification": "Sheet"
+        },
+        {
+          "depth": null,
+          "width": null,
+          "height": 6,
+          "diameter": null,
+          "clarification": "Each sphere"
+        }
+      ],
+      "medium_display": "Latex, pigment, and cheesecloth",
+      "inscriptions": null,
+      "credit_line": "Gift of Lannan Foundation",
+      "catalogue_display": null,
+      "publication_history": "Cindy Nemser, \u201cAn Interview with Eva Hesse,\u201d Artforum, vol. 8 (May 1970): 61 (ill.), 62.\n\nLucy R. Lippard, \u201cEva Hesse - The Circle,\u201d Art in America 59, no. 3 (May-June 1971): 70 [PENDING CONFIRMATION]\n\nRobert Pincus\u2013Witten and Linda Shearer, Eva Hesse: A Memorial Exhibition, exh. cat. (New York: Solomon R. Guggenheim Museum, 1972), n.p., cat. 27 (ill.).\n\nLucy R. Lippard, Six years, the dematerialization of the art object from 1966 to 1972: a cross-reference book of information on some esthetic boundaries\u2026(London: Studio Vista, 1973), 57 (ill.), 268. \n\nLinda Shearer, Eva Hesse 1936\u20141970. An Exhibition of Sculpture and Drawings, exh. cat. (London: Mayor Gallery, 1974), n.p., cat. 10 (ill.).\n\nCindy Nemser, Art Talk: Conversations with 12 Women Artists (New York: Charles Scribner's Sons, 1975), 210, 219.\n\nLucy R. Lippard, Eva Hesse (New York: New York University Press, 1976), 113, fig. 158 (ill.), 114, 130, 137, 192, 228, cat. 66.\n\nLucy R. Lippard, Strata: Nancy Graves, Eva Hesse, Michelle Stuart, Jackie Winsor, exh. cat. (Vancouver: Vancouver Art Gallery, 1977), 12 (ill.).\n\nAndrea Hill, \u201cEva Hesse,\u201d Artscribe, no. 18, July 1979, 42.\n\nNicholas Serota and Rosalind Krauss, Eva Hesse: Sculpture, exh. cat. (London: Whitechapel Art Gallery, 1979), n.p., cat. 28 (ill.), as Sequel, 1967.\n\nNicholas Serota and Rosalind Krauss, Eva Hesse: Skulpturen und Zeichnungen, exh. cat. (Hannover: Kestner\u2013Gesellschaft, 1979), 25 (ill.), 50, cat. 28 (ill.), 108, cat. 28, as Sequel, 1967. \n\nErika Billeter, Weich und Plastisch (Zurich: Kunsthaus Z\u00fcrich, 1979), 128 (ill.), 189, as Sequel, 1967 (S. 128).\n\nRichard Armstrong and Richard Marshall, The New Sculpture 1965-1975: Between Geometry and Gesture (New York: Whitney Museum of Art, 1980), 197, 233, 333 (ill.).\n\nRoberta Smith, Joel Shapiro (New York: Whitney Museum of Art, 1982), 13, fig. 4 (ill.).\n\nOlle Granath and Margareta Helleberg, Flykpunkter\/Vanishing Points, exh. cat. (Stockholm: Moderna Museet, 1984), 212, cat. 55.\n\nPeter Schjeldahl, Art of Our Time: The Saatchi Collection, vol. 1 (London: Lund Humphries, 1984), n.p., pl. 20 (color ill.). \n\nRichard Armstrong and Richard Marshall, Entre la geometr\u00eda y el gesto: Escultura Norteamericana, 1965-1975, exh. cat. (Madrid: Ministerio de Cultura, Direcci\u00f3n General de Bellas Artes y Archivos, Centro Nacional de Exposiciones, 1986), 113.\n\nIrving Sandler, American Art of the 1960s (New York: Harper and Row Publishers, 1988), 308, fig. 166 (ill.).\n\nDonald Kuspit, \u201cEva Hesse at Pat Hearn Gallery,\u201d Artforum, (April 1988): 138 (ill.).\n\nBill Barrette, Eva Hesse Sculpture: Catalogue Raisonn\u00e9 (New York: Timken Publishers, 1989), 14, 116, 156, 158, cat. 67, 159 (color ill.), as Sequel, 1967.\n\nHelen A. Cooper, Maurice Berger, Anna C. Chave, Maria Kreutzer, Linda Norden, and Robert Storr, Eva Hesse: A Retrospective, exh. cat. (New Haven: Yale University Art Gallery, 1992),\n18, 45, 83, 94, 229 (color ill.), 248.\n\nJones K. Marriott, \u201cEva Hesse: Yale University Art Gallery,\u201d Artforum, vol. 32 (October 1992): 111.\n\nNaomi Spector, \u201cEva Hesse,\u201d Galeries Magazine, no. 2 (December 1992-January 1993): 71 (ill.). \n\nEva Hesse and IVAM Centre Julio Gonz\u00e1lez, Eva Hesse, exh. cat. (Valencia: IVAM, 1993), 9, 134 (color ill.), 134, pl. 92 (ill.), as Sequel (Secuela), 1967.\n\nAnne M. Wagner, \u201cAnother Hesse,\u201d October 69 (Summer 1994), 82 (ill.).\n\nLannan Foundation, Floored: Sculpture from the Lannan Foundation Collection, exh. checklist (Los Angeles: Lannan Foundation, 1995), n.p., no. 12.\n\nWilliam Wilson, \u201cFloored Maximizes Minimalist Sculptures,\u201d Los Angeles Times, May 20, 1995, F6.\n\nAnne M. Wagner, Three Artists (Three Women): Modernism and the Art of Hesse, Krasner, and O\u2019Keefe (Berkeley: University of California Press, 1996), 279-280, fig 99 (ill.), as Sequel, 1967.\n\n Susan L. Stoops, Lynda Benglis, and Whitney Chadwick, More than Minimal: Feminism and Abstraction in the \u201970\u2019s: Lynda Benglis [and Others], exh. cat. (Waltham, MA: Rose Art Museum, Brandeis University, 1996), 59 (color ill.).\n\nWhitney Chadwick, et al., Mirror Women, Surrealism, and Images, exh. cat. (Boston: Massachusetts Institute of Technology, 1998), 19. \n\nHendel Teicher, Joel Shapiro: Sculpture and Drawings (New York: Harry N. Abrams, Inc., 1998), 41, 42 (ill.).\n\nStephanie Skestos, \u201cChecklist of the Lannan Collection,\u201d in Art Institute of Chicago Museum Studies: Modern and Contemporary Art: The Lannan Collection at the Art Institute of Chicago, 25, no. 1 (Chicago: Art Institute of Chicago, 1999), 90, cat. 30 (ill.).\n\nJames Meyer, Minimalism, (London: Phaidon, 2000), 117 (color ill.). \n\nStephanie Skestos, \u201cSequel,\u201d in Art Institute of Chicago Museum Studies: Notable Quotations at the Art Institute of Chicago, 29, no. 2 (Chicago: Art Institute of Chicago, 2003), 84, 85 (color ill.), 95.\n\nElisabeth Sussman, Eva Hesse, exh. cat. (San Francisco: San Francisco Museum of Modern Art, 2002), 77 n.73, 78, 83, fig. 48, 84, 95 n. 14, 219, pl. 82, 220, 221, pl. 82, 225, pl. 82, 314, 324, cat. 138.\n\nMignon Nixon and Cindy Nemser, Eva Hesse (Cambridge, MA: MIT Press, 2002), 10, 19, 80 (ill.), 182, 185 (ill.), 209, 213.\n\nElisabeth Sussman, Fred Wasserman, Yve-Alain Bois, and Mark Benjamin Godfrey, Eva Hesse: Sculpture, exh. cat. (New York: Jewish Museum, 2006), 4 (ill.), 7, 8, 13, 21, 71 (color ill.), 141, 147.\n\nJonathon Keats, \u201cThe Afterlife of Eva Hesse,\u201d Art and Antiques Magazine (April 2011): 51.\n\nVeronica Roberts, Lucy R. Lippard, and Kirsten Swenson, Converging Lines: Eva Hesse and Sol LeWitt, exh. cat (Blanton: Blanton Museum of Art; New Haven: Yale University Press, 2014), PENDING CONFIRMATION.",
+      "exhibition_history": "New York, Fischbach Gallery, Eva Hesse, Chain Polymers, Nov. 15\u2013Dec. 5, 1968, no cat. \n\nNew York, Solomon R. Guggenheim Museum, Eva Hesse: A Memorial Exhibition, Dec. 8, 1972\u2013Feb. 11, 1973, cat. 27; Buffalo, NY, Albright\u2013Knox Gallery Mar. 6\u2013Apr. 22, 1973; Chicago, Museum of Contemporary Art, May 19\u2013July 8, 1973; Pasadena, CA, Pasadena Art Museum Sept. 18\u2013Nov. 11, 1973; Berkeley, CA, University Art Museum, University of California, Berkeley, Dec. 12, 1973\u2013Feb. 3, 1974.\n\nLondon, Mayor Gallery, Eva Hesse 1936\u20141970. An Exhibition of Sculpture and Drawings, \nSept. 25\u2013Oct. 31, 1974, cat. 10.\n\nVancouver, Vancouver Art Gallery, Nancy Graves, Eva Hesse, Michelle Stuart, Jackie Winsor, Oct. 9\u2013Nov. 6, 1977, no cat. no.\n\nLondon, Whitechapel Art Gallery, Eva Hesse: Sculpture, May 4\u2013June 17, 1979, cat. 28; Otterlo, NL, Rijksmuseum Kr\u00f6ller\u2013M\u00fcller, June 30\u2013Aug. 5, 1979; Hannover, Kestner\u2013Gesellschaft, Aug. 17\u2013Sept. 23, 1979, cat. 28, as Sequel, 1967.\n\nStockholm, Moderna Museet, Flyktpunkter\/Vanishing Points, Apr. 14\u2013May, 27, 1984, cat. 55.\n\nNew York, Pat Hearn Gallery, Eva Hesse, Nov. 20\u2013Dec. 31, 1987, no cat. \n\nNew Haven, CT, Yale University Art Gallery, Eva Hesse: A Retrospective, Apr. 15\u2013July 1992, no cat. no. pl. 103; Washington D.C., Hirshhorn Museum and Sculpture Garden, Oct. 15\u2013Jan. 10, 1993. \n\nValencia, IVAM Centre Julio Gonzalez, Eva Hesse Retrospective, Feb. 10\u2013Apr. 4, 1993, cat. 92; Paris, Galerie National du Jeu de Paume, Apr. 26\u2013June 27, 1993, as Sequel (Secuela), 1967.\n\nLos Angeles, Lannan Foundation, Floored: Sculpture from the Lannan Foundation Collection, Apr. 8\u2013Aug. 13, 1995, no cat., checklist no. 12.\n\nWaltham, MA, Rose Art Museum, More Than Minimal: Feminism and Abstraction in the \u201870\u2019s, Apr. 21\u2013June 30, 1996, no cat. no.\n\nSan Francisco, San Francisco Museum of Modern Art, Eva Hesse, Feb. 2\u2013May 19, 2002, cat. 138; Wiesbaden, Germany, Museum Wiesbaden, June 15 \u2013October 13, 2002; London, Tate Modern, Nov. 14, 2002\u2013Mar. 9, 2003. (San Francisco only).\n\nNew York, The Jewish Museum, Eva Hesse: Sculpture, May 12, 2006 \u2013Sep. 17, 2006, cat. 15.",
+      "provenance_text": "The Estate of Eva Hesse; sold through Metro Pictures, New York, to Charles Saatchi, London, July 1984 [correspondence from Metro Pictures, Mar. 23, 2002; copy in curatorial object file]; sold Sotheby\u2019s Contemporary Art, Part I, New York, Nov. 13, 1991, lot. 59, to Lannan Foundation, Los Angeles; given to the Art Institute of Chicago, Apr. 14, 1997.",
+      "edition": null,
+      "publishing_verification_level": "Web Cataloged",
+      "internal_department_id": 246,
+      "fiscal_year": 1997,
+      "fiscal_year_deaccession": null,
+      "is_public_domain": false,
+      "is_zoomable": true,
+      "max_zoom_window_size": 1280,
+      "copyright_notice": "\u00a9 The Estate of Eva Hesse, Courtesy Hauser & Wirth.",
+      "has_multimedia_resources": false,
+      "has_educational_resources": false,
+      "has_advanced_imaging": false,
+      "colorfulness": 42.0894,
+      "color": {
+        "h": 39,
+        "l": 47,
+        "s": 44,
+        "percentage": 0.006311760108562273,
+        "population": 34
+      },
+      "latitude": null,
+      "longitude": null,
+      "latlon": null,
+      "is_on_view": false,
+      "on_loan_display": null,
+      "gallery_title": null,
+      "gallery_id": null,
+      "nomisma_id": null,
+      "artwork_type_title": "Sculpture",
+      "artwork_type_id": 3,
+      "department_title": "Contemporary Art",
+      "department_id": "PC-8",
+      "artist_id": 34922,
+      "artist_title": "Eva Hesse",
+      "alt_artist_ids": [],
+      "artist_ids": [
+        34922
+      ],
+      "artist_titles": [
+        "Eva Hesse"
+      ],
+      "category_ids": [
+        "PC-8",
+        "PC-825"
+      ],
+      "category_titles": [
+        "Contemporary Art",
+        "Women artists"
+      ],
+      "term_titles": [
+        "sculpture",
+        "modern and contemporary art"
+      ],
+      "style_id": null,
+      "style_title": null,
+      "alt_style_ids": [],
+      "style_ids": [],
+      "style_titles": [],
+      "classification_id": "TM-13",
+      "classification_title": "sculpture",
+      "alt_classification_ids": [
+        "TM-155"
+      ],
+      "classification_ids": [
+        "TM-13",
+        "TM-155"
+      ],
+      "classification_titles": [
+        "sculpture",
+        "modern and contemporary art"
+      ],
+      "subject_id": null,
+      "alt_subject_ids": [],
+      "subject_ids": [],
+      "subject_titles": [],
+      "material_id": null,
+      "alt_material_ids": [],
+      "material_ids": [],
+      "material_titles": [],
+      "technique_id": null,
+      "alt_technique_ids": [],
+      "technique_ids": [],
+      "technique_titles": [],
+      "theme_titles": [
+        "Women artists"
+      ],
+      "image_id": "f658ad41-fc62-4575-03ea-506896149280",
+      "alt_image_ids": [],
+      "document_ids": [],
+      "sound_ids": [],
+      "video_ids": [],
+      "text_ids": [],
+      "section_ids": [],
+      "section_titles": [],
+      "site_ids": [],
+      "suggest_autocomplete_all": [
+        {
+          "input": [
+            "1997.143"
+          ],
+          "contexts": {
+            "groupings": [
+              "accession"
+            ]
+          }
+        },
+        {
+          "input": [
+            "Sequel"
+          ],
+          "weight": 2636,
+          "contexts": {
+            "groupings": [
+              "title"
+            ]
+          }
+        }
+      ],
+      "source_updated_at": "2025-10-01T09:18:24-05:00",
+      "updated_at": "2025-10-01T09:20:26-05:00",
+      "timestamp": "2025-10-01T09:33:20-05:00"
+    },
+    {
+      "id": 3789,
+      "api_model": "artworks",
+      "api_link": "https:\/\/api.artic.edu\/api\/v1\/artworks\/3789",
+      "is_boosted": false,
+      "title": "The Children's Bath",
+      "alt_titles": null,
+      "thumbnail": {
+        "lqip": "data:image\/gif;base64,R0lGODlhBgAFAPQAAHdxYnZxY4N7aoN7a4J7bIZ+boh\/bouDco2Eco6Fc4+Gc4+HdZGHdJCIdZaKdZSJdpSLeJeNepePfZuPe5qQfZuRf6CWgaGXg6OZhKWahaqdh6yfiQAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYYGEIA0AciLAEUWVtjZRh0JNcivY4E8WEADs=",
+        "width": 4517,
+        "height": 3555,
+        "alt_text": "A work made of engraving in black on cream laid paper."
+      },
+      "main_reference_number": "1956.846",
+      "has_not_been_viewed_much": false,
+      "boost_rank": null,
+      "date_start": 1495,
+      "date_end": 1495,
+      "date_display": "1480\/90",
+      "date_qualifier_title": "Made",
+      "date_qualifier_id": 4,
+      "artist_display": "Israhel van Meckenem the Younger\nGerman, c. 1440\/45-1503",
+      "place_of_origin": "Germany",
+      "description": "<p>Albrecht D\u00fcrer and Sebald Beham likely knew Israhel van Meckenem\u2019s earlier genre scene of seven children bathing, misbehaving, and playing around a large wooden tub, supervised by a bathmaid. Those artists\u2019 related prints (D\u00fcrer's <em>The Men\u2019s Bath<\/em>, 2009.133 and Beham's <em>The Women\u2019s Bath<\/em>, 2010.518) take place in outdoor male and indoor female baths, respectively. All three celebrate different aspects of bathing culture, a relatively infrequent activity during the Renaissance. Though it has not been annotated in this impression, the empty, winding banner above Meckenem\u2019s <em>Children\u2019s Bath<\/em> offers the viewer a space to interact with the image as playfully as the splashing and roughhousing boys themselves.<\/p>\n",
+      "short_description": null,
+      "dimensions": "Image\/sheet: 10.9 \u00d7 13.7 cm (4 5\/16 \u00d7 5 7\/16 in.)",
+      "dimensions_detail": [
+        {
+          "depth": null,
+          "width": 13,
+          "height": 10,
+          "diameter": null,
+          "clarification": "Image\/sheet"
+        }
+      ],
+      "medium_display": "Engraving in black on cream laid paper",
+      "inscriptions": null,
+      "credit_line": "Bequest of Mrs. Potter Palmer, Jr.",
+      "catalogue_display": "<p>Lehrs IX.478<\/p><p>Bartsch VI.274.187<\/p><p>Geisberg 386<\/p><p>Hollstein XXIV.478<\/p>",
+      "publication_history": null,
+      "exhibition_history": null,
+      "provenance_text": null,
+      "edition": null,
+      "publishing_verification_level": "Web Basic",
+      "internal_department_id": 3,
+      "fiscal_year": null,
+      "fiscal_year_deaccession": null,
+      "is_public_domain": true,
+      "is_zoomable": true,
+      "max_zoom_window_size": -1,
+      "copyright_notice": null,
+      "has_multimedia_resources": false,
+      "has_educational_resources": false,
+      "has_advanced_imaging": false,
+      "colorfulness": 17.7645,
+      "color": {
+        "h": 39,
+        "l": 61,
+        "s": 17,
+        "percentage": 0.2940587974674499,
+        "population": 1646
+      },
+      "latitude": null,
+      "longitude": null,
+      "latlon": null,
+      "is_on_view": false,
+      "on_loan_display": null,
+      "gallery_title": null,
+      "gallery_id": null,
+      "nomisma_id": null,
+      "artwork_type_title": "Print",
+      "artwork_type_id": 18,
+      "department_title": "Prints and Drawings",
+      "department_id": "PC-13",
+      "artist_id": 37116,
+      "artist_title": "Israhel van Meckenem, the younger",
+      "alt_artist_ids": [],
+      "artist_ids": [
+        37116
+      ],
+      "artist_titles": [
+        "Israhel van Meckenem, the younger"
+      ],
+      "category_ids": [
+        "PC-13"
+      ],
+      "category_titles": [
+        "Prints and Drawings"
+      ],
+      "term_titles": [
+        "engraving",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+      ],
+      "style_id": null,
+      "style_title": null,
+      "alt_style_ids": [],
+      "style_ids": [],
+      "style_titles": [],
+      "classification_id": "TM-12",
+      "classification_title": "engraving",
+      "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+      ],
+      "classification_ids": [
+        "TM-12",
+        "TM-17",
+        "TM-4"
+      ],
+      "classification_titles": [
+        "engraving",
+        "print",
+        "prints and drawing"
+      ],
+      "subject_id": null,
+      "alt_subject_ids": [],
+      "subject_ids": [],
+      "subject_titles": [],
+      "material_id": "TM-2982",
+      "alt_material_ids": [],
+      "material_ids": [
+        "TM-2982"
+      ],
+      "material_titles": [
+        "paper (fiber product)"
+      ],
+      "technique_id": null,
+      "alt_technique_ids": [],
+      "technique_ids": [],
+      "technique_titles": [],
+      "theme_titles": [],
+      "image_id": "6bb6ccdd-fe82-3993-ce38-142f1664e247",
+      "alt_image_ids": [],
+      "document_ids": [],
+      "sound_ids": [],
+      "video_ids": [],
+      "text_ids": [],
+      "section_ids": [],
+      "section_titles": [],
+      "site_ids": [],
+      "suggest_autocomplete_all": [
+        {
+          "input": [
+            "1956.846"
+          ],
+          "contexts": {
+            "groupings": [
+              "accession"
+            ]
+          }
+        },
+        {
+          "input": [
+            "The Children's Bath"
+          ],
+          "weight": 369,
+          "contexts": {
+            "groupings": [
+              "title"
+            ]
+          }
+        }
+      ],
+      "source_updated_at": "2022-09-21T19:18:45-05:00",
+      "updated_at": "2025-10-01T08:50:22-05:00",
+      "timestamp": "2025-10-01T09:33:20-05:00"
+    },
+    {
+      "id": 202823,
+      "api_model": "artworks",
+      "api_link": "https:\/\/api.artic.edu\/api\/v1\/artworks\/202823",
+      "is_boosted": false,
+      "title": "Circa '70 Coffee Service",
+      "alt_titles": null,
+      "thumbnail": {
+        "lqip": "data:image\/gif;base64,R0lGODlhBwAFAPUAAGlpaWtra21tbW5ubW5ubnJycnR0cXd0cHZ2dXZ2dnh2c3l4d3l5eXt7e4iHg4+NipOTk5mZmZybmZ2cmp6cmp6dm5+enKCem6SjoLKxrbOxrrm4tr6+vr+\/vsXFxdvb3Nzc3AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhQEaDgUgUCIQBwLAQBCASS+UyiXAwCsfh4QFtKBlN5xMEADs=",
+        "width": 3000,
+        "height": 2250,
+        "alt_text": "A work made of silver, laminate, and ebony."
+      },
+      "main_reference_number": "2009.1036.1-5",
+      "has_not_been_viewed_much": false,
+      "boost_rank": null,
+      "date_start": 1958,
+      "date_end": 1960,
+      "date_display": "designed 1958; introduced 1960",
+      "date_qualifier_title": "",
+      "date_qualifier_id": null,
+      "artist_display": "Designed by Donald Colflesh (American, born 1932)\nMade by Gorham Manufacturing Company (founded 1831)\nProvidence",
+      "place_of_origin": "Providence",
+      "description": "<p>In 1956 Gorham Manufacturing Company, the country\u2019s leading maker and retailer of fashionable silver, recruited Donald Colflesh to bring a \u201ccontemporary dimension\u201d to its traditional products. Colflesh\u2019s most popular and successful design for the firm was the <em>Circa \u201970<\/em> series, in which he brilliantly captured America\u2019s ambition to go the moon. In this coffee service, the intersecting angles epitomize the era of space-age design, and the curving, upright thrust of the handles and spouts conveys the aerodynamics of the jet age. Gorham reinforced the coffee service\u2019s space-age associations in accompanying pamphlets, noting its \u201cfeeling of vertical motion . . . the upward look to space.\u201d The company\u2019s name for the line, <em>Circa \u201970<\/em>, also confidently alludes to the future and its possibilities. The sleek contours and elongated ebony finials and handles, however, were exceptional for mid-century hollowware and recall similar embellishments on early-20th-century Scandinavian silver.<\/p>\n",
+      "short_description": null,
+      "dimensions": "Coffee pot: 29.9 \u00d7 18.4 \u00d7 14.6 cm (11 13\/16 \u00d7 7 1\/4 \u00d7 5 3\/4 in.); Teapot: 23.5 \u00d7 17.2 \u00d7 14.9 cm (9 5\/16 \u00d7 6 13\/16 \u00d7 5 7\/8 in.); Sugar: 7.6 \u00d7 16.5 \u00d7 12.4 cm (3 \u00d7 6 1\/2 \u00d7 4 15\/16 in.); Creamer: 16.5 \u00d7 9.5 \u00d7 9.2 cm (6 1\/2 \u00d7 3 3\/4 \u00d7 3 5\/8 in.); Tray: 3.8 \u00d7 45.7 \u00d7 45.7 cm (1 1\/2 \u00d7 18 \u00d7 18 in.)",
+      "dimensions_detail": [
+        {
+          "depth": 14,
+          "width": 18,
+          "height": 29,
+          "diameter": null,
+          "clarification": "Coffee pot"
+        },
+        {
+          "depth": 14,
+          "width": 17,
+          "height": 23,
+          "diameter": null,
+          "clarification": "Teapot"
+        },
+        {
+          "depth": 12,
+          "width": 16,
+          "height": 7,
+          "diameter": null,
+          "clarification": "Sugar"
+        },
+        {
+          "depth": 9,
+          "width": 9,
+          "height": 16,
+          "diameter": null,
+          "clarification": "Creamer"
+        },
+        {
+          "depth": 45,
+          "width": 45,
+          "height": 3,
+          "diameter": null,
+          "clarification": "Tray"
+        }
+      ],
+      "medium_display": "Silver, laminate, and ebony",
+      "inscriptions": "Marked on bottom of each: Gorham \/ STERLING \/ 1463 \/ O",
+      "credit_line": "Through prior bequest of Arthur Rubloff",
+      "catalogue_display": null,
+      "publication_history": "Annual Report (Art Institute of Chicago, 2009\u201310) p. 13.\n\nJudith A. Barter, Elizabeth McGoey, et al., American Silver in the Art Institute of Chicago (Yale University Press, 2016), cat. 100 (ill.).\n\nElizabeth McGoey, ed., American Silver in the Art Institute of Chicago (Art Institute of Chicago, 2018), <a href=\"https:\/\/publications.artic.edu\/americansilver\/reader\/collection\/section\/6\">https:\/\/publications.artic.edu\/americansilver\/reader\/collection\/section\/6<\/a>, cat. 100 (ill.).",
+      "exhibition_history": null,
+      "provenance_text": "Wright, Chicago, 2009, lot 225; sold to the Art Institute of Chicago, 2009.",
+      "edition": null,
+      "publishing_verification_level": "Web Cataloged",
+      "internal_department_id": 21,
+      "fiscal_year": 2010,
+      "fiscal_year_deaccession": null,
+      "is_public_domain": false,
+      "is_zoomable": false,
+      "max_zoom_window_size": 843,
+      "copyright_notice": null,
+      "has_multimedia_resources": true,
+      "has_educational_resources": false,
+      "has_advanced_imaging": false,
+      "colorfulness": 3.7395,
+      "color": {
+        "h": 58,
+        "l": 46,
+        "s": 0,
+        "percentage": 0.4960809045452498,
+        "population": 2643
+      },
+      "latitude": null,
+      "longitude": null,
+      "latlon": null,
+      "is_on_view": false,
+      "on_loan_display": null,
+      "gallery_title": null,
+      "gallery_id": null,
+      "nomisma_id": null,
+      "artwork_type_title": "Metalwork",
+      "artwork_type_id": 35,
+      "department_title": "Arts of the Americas",
+      "department_id": "PC-3",
+      "artist_id": 110903,
+      "artist_title": "Donald Colflesh",
+      "alt_artist_ids": [],
+      "artist_ids": [
+        110903
+      ],
+      "artist_titles": [
+        "Donald Colflesh"
+      ],
+      "category_ids": [
+        "PC-832",
+        "PC-3"
+      ],
+      "category_titles": [
+        "Drinking and Dining",
+        "Arts of the Americas"
+      ],
+      "term_titles": [
+        "coffee service",
+        "silver",
+        "Modernism",
+        "ebony",
+        "sugar bowl",
+        "coffeepot",
+        "creamer",
+        "dining",
+        "drinking",
+        "decorative arts"
+      ],
+      "style_id": "TM-5981",
+      "style_title": "Modernism",
+      "alt_style_ids": [],
+      "style_ids": [
+        "TM-5981"
+      ],
+      "style_titles": [
+        "Modernism"
+      ],
+      "classification_id": "TM-11786",
+      "classification_title": "coffee service",
+      "alt_classification_ids": [
+        "TM-11778",
+        "TM-11781",
+        "TM-11776",
+        "TM-1678"
+      ],
+      "classification_ids": [
+        "TM-11786",
+        "TM-11778",
+        "TM-11781",
+        "TM-11776",
+        "TM-1678"
+      ],
+      "classification_titles": [
+        "coffee service",
+        "sugar bowl",
+        "coffeepot",
+        "creamer",
+        "decorative arts"
+      ],
+      "subject_id": null,
+      "alt_subject_ids": [
+        "TM-12076",
+        "TM-12077"
+      ],
+      "subject_ids": [
+        "TM-12076",
+        "TM-12077"
+      ],
+      "subject_titles": [
+        "dining",
+        "drinking"
+      ],
+      "material_id": "TM-2436",
+      "alt_material_ids": [
+        "TM-2524"
+      ],
+      "material_ids": [
+        "TM-2436",
+        "TM-2524"
+      ],
+      "material_titles": [
+        "silver",
+        "ebony"
+      ],
+      "technique_id": null,
+      "alt_technique_ids": [],
+      "technique_ids": [],
+      "technique_titles": [],
+      "theme_titles": [
+        "Drinking and Dining"
+      ],
+      "image_id": "ee8c8903-ed55-c104-49d2-3bd36028d40b",
+      "alt_image_ids": [],
+      "document_ids": [],
+      "sound_ids": [],
+      "video_ids": [],
+      "text_ids": [],
+      "section_ids": [
+        15222
+      ],
+      "section_titles": [
+        "Cat. 100 \u00a0Circa \u201970 Coffee Service, designed 1958; introduced 1960"
+      ],
+      "site_ids": [],
+      "suggest_autocomplete_all": [
+        {
+          "input": [
+            "2009.1036.1-5"
+          ],
+          "contexts": {
+            "groupings": [
+              "accession"
+            ]
+          }
+        },
+        {
+          "input": [
+            "Circa '70 Coffee Service"
+          ],
+          "weight": 408,
+          "contexts": {
+            "groupings": [
+              "title"
+            ]
+          }
+        }
+      ],
+      "source_updated_at": "2025-06-06T11:17:44-05:00",
+      "updated_at": "2025-10-01T03:07:59-05:00",
+      "timestamp": "2025-10-01T09:33:20-05:00"
+    },
+    {
+      "id": 120164,
+      "api_model": "artworks",
+      "api_link": "https:\/\/api.artic.edu\/api\/v1\/artworks\/120164",
+      "is_boosted": false,
+      "title": "Teapot",
+      "alt_titles": null,
+      "thumbnail": {
+        "lqip": "data:image\/gif;base64,R0lGODlhBAAFAPQAAKSlqaanq6enq6eorLCvsK+wtLi4t7O0uLm3uLa4vLu6uL++v83Mys3My9DNydXSztbU0dfV0tDR1AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4BAAgFAkB4EskuE8CgNFTQgAOw==",
+        "width": 2250,
+        "height": 3000,
+        "alt_text": "A work made of sterling silver, ebony."
+      },
+      "main_reference_number": "1991.108a-b",
+      "has_not_been_viewed_much": false,
+      "boost_rank": null,
+      "date_start": 1960,
+      "date_end": 1960,
+      "date_display": "1960",
+      "date_qualifier_title": "",
+      "date_qualifier_id": null,
+      "artist_display": "William N. Frederick\nAmerican, 1921\u20132012\nChicago",
+      "place_of_origin": "Chicago",
+      "description": "<p>After studying metalwork at the School of the Art Institute of Chicago, silversmith William Frederick spent decades producing beautiful and functional objects for clients in Chicago. This teapot exhibits a sleek, undecorated surface and organic curves, an aesthetic popular in midcentury silver due to the influence of Scandinavian designers. The cantilevered finial recalls Frederick\u2019s background in engineering, while the harmonious sweep of the body and spout provides a dynamic appearance. The lack of hammer marks is atypical for Frederick\u2019s work, however, as he often marked his pieces with explicit evidence of the maker\u2019s hand.<\/p>\n",
+      "short_description": null,
+      "dimensions": "19.7 \u00d7 23.5 cm (7 3\/4 \u00d7 9 1\/4 in.)",
+      "dimensions_detail": [
+        {
+          "depth": null,
+          "width": 23,
+          "height": 19,
+          "diameter": null,
+          "clarification": null
+        }
+      ],
+      "medium_display": "Sterling silver, ebony",
+      "inscriptions": "Marked on bottom: HANDWROUGHT STERLING   FREDERICK",
+      "credit_line": "Purchased with funds provided by the Antiquarian Society through the Mrs. Myron F. Ratcliffe Fund in memory of Myron F. Ratcliffe",
+      "catalogue_display": null,
+      "publication_history": "Sharon Darling and Gale Farr Casterling, <em>Chicago Metalsmiths: An Illustrated History<\/em>, exh. cat. (Chicago Historical Society, 1977), 82, fig. 100 (ill.).\n\nJennifer M. Downs, \u201c\u2018The New Modern Feeling\u2019: A Catalogue of the Collection,\u201d <em>Art Institute of Chicago Museum Studies<\/em> 27, 2 (2001), 101\u2013103, cat. 31.\n\nCarolyn Kelly, The Kalo Shop: A Case Study of Handwrought Silver in the Twentieth Century, submitted in partial fulfillment of the requirements for the degree Master of Arts in the History of Arts, Cooper-Hewitt, National Deisgn Museum and Parsons School of Design, 2006, illus. 100, 206.\n\nJudith A. Barter, Elizabeth McGoey, et al., <em>American Silver in the Art Institute of Chicago<\/em> (Yale University Press, 2016), cat. 99 (ill.).\n\nElizabeth McGoey, ed., <em>American Silver in the Art Institute of Chicago<\/em> (Art Institute of Chicago, 2018), <a href=\"https:\/\/publications.artic.edu\/americansilver\/reader\/collection\/section\/6\">https:\/\/publications.artic.edu\/americansilver\/reader\/collection\/section\/6<\/a>, cat. 99 (ill.).",
+      "exhibition_history": "Chicago Historical Society, Chicago Metalsmiths: An Illustrated History, May 21\u2013Oct. 23, 1977, cat.",
+      "provenance_text": "The artist, William N. Frederick, Chicago, until 1991; sold to the Art Institute of Chicago, 1991.",
+      "edition": null,
+      "publishing_verification_level": "Web Cataloged",
+      "internal_department_id": 21,
+      "fiscal_year": 1991,
+      "fiscal_year_deaccession": null,
+      "is_public_domain": false,
+      "is_zoomable": false,
+      "max_zoom_window_size": 843,
+      "copyright_notice": null,
+      "has_multimedia_resources": true,
+      "has_educational_resources": false,
+      "has_advanced_imaging": false,
+      "colorfulness": 4.211,
+      "color": {
+        "h": 225,
+        "l": 66,
+        "s": 3,
+        "percentage": 0.27566351321116334,
+        "population": 2612
+      },
+      "latitude": null,
+      "longitude": null,
+      "latlon": null,
+      "is_on_view": false,
+      "on_loan_display": null,
+      "gallery_title": null,
+      "gallery_id": null,
+      "nomisma_id": null,
+      "artwork_type_title": "Metalwork",
+      "artwork_type_id": 35,
+      "department_title": "Arts of the Americas",
+      "department_id": "PC-3",
+      "artist_id": 43383,
+      "artist_title": "William Frederick",
+      "alt_artist_ids": [],
+      "artist_ids": [
+        43383
+      ],
+      "artist_titles": [
+        "William Frederick"
+      ],
+      "category_ids": [
+        "PC-832",
+        "PC-3"
+      ],
+      "category_titles": [
+        "Drinking and Dining",
+        "Arts of the Americas"
+      ],
+      "term_titles": [
+        "teapot",
+        "sterling silver",
+        "Chicago",
+        "Modernism",
+        "silver",
+        "american decorative arts",
+        "american arts",
+        "dining",
+        "drinking",
+        "decorative arts"
+      ],
+      "style_id": "TM-5981",
+      "style_title": "Modernism",
+      "alt_style_ids": [],
+      "style_ids": [
+        "TM-5981"
+      ],
+      "style_titles": [
+        "Modernism"
+      ],
+      "classification_id": "TM-11780",
+      "classification_title": "teapot",
+      "alt_classification_ids": [
+        "TM-161",
+        "TM-2190",
+        "TM-2191",
+        "TM-1678"
+      ],
+      "classification_ids": [
+        "TM-11780",
+        "TM-161",
+        "TM-2190",
+        "TM-2191",
+        "TM-1678"
+      ],
+      "classification_titles": [
+        "teapot",
+        "silver",
+        "american decorative arts",
+        "american arts",
+        "decorative arts"
+      ],
+      "subject_id": "TM-12075",
+      "alt_subject_ids": [
+        "TM-12076",
+        "TM-12077"
+      ],
+      "subject_ids": [
+        "TM-12075",
+        "TM-12076",
+        "TM-12077"
+      ],
+      "subject_titles": [
+        "Chicago",
+        "dining",
+        "drinking"
+      ],
+      "material_id": "TM-2720",
+      "alt_material_ids": [],
+      "material_ids": [
+        "TM-2720"
+      ],
+      "material_titles": [
+        "sterling silver"
+      ],
+      "technique_id": null,
+      "alt_technique_ids": [],
+      "technique_ids": [],
+      "technique_titles": [],
+      "theme_titles": [
+        "Drinking and Dining"
+      ],
+      "image_id": "06cd91cc-faea-c3a4-d4dc-c9cfc8ed780b",
+      "alt_image_ids": [],
+      "document_ids": [],
+      "sound_ids": [],
+      "video_ids": [],
+      "text_ids": [],
+      "section_ids": [
+        15048
+      ],
+      "section_titles": [
+        "Cat. 99 \u00a0Teapot, 1960"
+      ],
+      "site_ids": [],
+      "suggest_autocomplete_all": [
+        {
+          "input": [
+            "1991.108a-b"
+          ],
+          "contexts": {
+            "groupings": [
+              "accession"
+            ]
+          }
+        },
+        {
+          "input": [
+            "Teapot"
+          ],
+          "weight": 328,
+          "contexts": {
+            "groupings": [
+              "title"
+            ]
+          }
+        }
+      ],
+      "source_updated_at": "2025-06-06T11:17:44-05:00",
+      "updated_at": "2025-10-01T03:07:59-05:00",
+      "timestamp": "2025-10-01T09:33:20-05:00"
+    },
+    {
+      "id": 80251,
+      "api_model": "artworks",
+      "api_link": "https:\/\/api.artic.edu\/api\/v1\/artworks\/80251",
+      "is_boosted": false,
+      "title": "Tankard",
+      "alt_titles": null,
+      "thumbnail": {
+        "lqip": "data:image\/gif;base64,R0lGODlhBAAFAPMAAICAgYODg5eWlZmYmJqZma2qqLW1tbe2tLq5uMTCwczKyczMzNDMyNfRzd7e3uDg4CH5BAAAAAAALAAAAAAEAAUAAAQPMIAQRhEEtWMUS8vjPE8EADs=",
+        "width": 1800,
+        "height": 2250,
+        "alt_text": "A work made of silver."
+      },
+      "main_reference_number": "1954.131",
+      "has_not_been_viewed_much": true,
+      "boost_rank": null,
+      "date_start": 1705,
+      "date_end": 1722,
+      "date_display": "1705\u201322",
+      "date_qualifier_title": "c.",
+      "date_qualifier_id": 60,
+      "artist_display": "John Coney (American, 1655\u20131722)\nBoston",
+      "place_of_origin": "Boston",
+      "description": null,
+      "short_description": null,
+      "dimensions": "20.3 \u00d7 12.1 \u00d7 18.4 cm (8 1\/8 \u00d7 4 3\/4 \u00d7 7 1\/4 in.)",
+      "dimensions_detail": [
+        {
+          "depth": 18,
+          "width": 12,
+          "height": 20,
+          "diameter": null,
+          "clarification": null
+        }
+      ],
+      "medium_display": "Silver",
+      "inscriptions": "Roman capitals in a shield with crown above and coney below on bottom and left of handle: \"IC\"\nRoman capitals in rectangle on center outer front bezel of cover: \"IC\"\nEngraved on handle: \"G \/ R*H\"",
+      "credit_line": "Purchased with funds provided by the Antiquarian Society",
+      "catalogue_display": null,
+      "publication_history": "Meyric R. Rogers, \"American Decorative Arts at The Art Institute of Chicago,\" The Magazine Antiques LXXIV, 1 (July 1958), p. 55 (ill.).\n\nDavid A. Hanks, \"American Silver at The Art Institute of Chicago,\" The Magazine Antiques 98, 3 (Sept. 1970), p. 419, ill.",
+      "exhibition_history": "Art Institute of Chicago, The Antiquarian Society: The First One Hundred Years, Apr. 23\u2013June 19, 1977, cat. 173, p. 146 (ill.).",
+      "provenance_text": "Unknown source; sold to Aims Chamberlain Coney (b. 1888), Pittsburgh, Pennsylvania, about 1943; sold to the Art Institute 1954.",
+      "edition": null,
+      "publishing_verification_level": "Web Cataloged",
+      "internal_department_id": 21,
+      "fiscal_year": null,
+      "fiscal_year_deaccession": null,
+      "is_public_domain": true,
+      "is_zoomable": true,
+      "max_zoom_window_size": -1,
+      "copyright_notice": null,
+      "has_multimedia_resources": true,
+      "has_educational_resources": false,
+      "has_advanced_imaging": false,
+      "colorfulness": 3.8102,
+      "color": {
+        "h": 49,
+        "l": 30,
+        "s": 1,
+        "percentage": 0.003826579420655876,
+        "population": 34
+      },
+      "latitude": null,
+      "longitude": null,
+      "latlon": null,
+      "is_on_view": true,
+      "on_loan_display": null,
+      "gallery_title": "Gallery 166",
+      "gallery_id": 2147476039,
+      "nomisma_id": null,
+      "artwork_type_title": "Metalwork",
+      "artwork_type_id": 35,
+      "department_title": "Arts of the Americas",
+      "department_id": "PC-3",
+      "artist_id": 52812,
+      "artist_title": "John Coney",
+      "alt_artist_ids": [],
+      "artist_ids": [
+        52812
+      ],
+      "artist_titles": [
+        "John Coney"
+      ],
+      "category_ids": [
+        "PC-832",
+        "PC-3"
+      ],
+      "category_titles": [
+        "Drinking and Dining",
+        "Arts of the Americas"
+      ],
+      "term_titles": [
+        "drinking vessel",
+        "silver",
+        "silver",
+        "american decorative arts",
+        "american arts",
+        "dining",
+        "drinking",
+        "decorative arts"
+      ],
+      "style_id": null,
+      "style_title": null,
+      "alt_style_ids": [],
+      "style_ids": [],
+      "style_titles": [],
+      "classification_id": "TM-11734",
+      "classification_title": "drinking vessel",
+      "alt_classification_ids": [
+        "TM-161",
+        "TM-2190",
+        "TM-2191",
+        "TM-1678"
+      ],
+      "classification_ids": [
+        "TM-11734",
+        "TM-161",
+        "TM-2190",
+        "TM-2191",
+        "TM-1678"
+      ],
+      "classification_titles": [
+        "drinking vessel",
+        "silver",
+        "american decorative arts",
+        "american arts",
+        "decorative arts"
+      ],
+      "subject_id": null,
+      "alt_subject_ids": [
+        "TM-12076",
+        "TM-12077"
+      ],
+      "subject_ids": [
+        "TM-12076",
+        "TM-12077"
+      ],
+      "subject_titles": [
+        "dining",
+        "drinking"
+      ],
+      "material_id": "TM-2436",
+      "alt_material_ids": [],
+      "material_ids": [
+        "TM-2436"
+      ],
+      "material_titles": [
+        "silver"
+      ],
+      "technique_id": null,
+      "alt_technique_ids": [],
+      "technique_ids": [],
+      "technique_titles": [],
+      "theme_titles": [
+        "Drinking and Dining"
+      ],
+      "image_id": "931923a6-6499-e53a-895b-542f4ee81ab6",
+      "alt_image_ids": [],
+      "document_ids": [],
+      "sound_ids": [],
+      "video_ids": [],
+      "text_ids": [],
+      "section_ids": [
+        108342
+      ],
+      "section_titles": [
+        "Select Silver Objects in the Collection of the Art Institute of Chicago"
+      ],
+      "site_ids": [],
+      "suggest_autocomplete_all": [
+        {
+          "input": [
+            "1954.131"
+          ],
+          "contexts": {
+            "groupings": [
+              "accession"
+            ]
+          }
+        },
+        {
+          "input": [
+            "Tankard"
+          ],
+          "weight": 1,
+          "contexts": {
+            "groupings": [
+              "title"
+            ]
+          }
+        }
+      ],
+      "source_updated_at": "2025-09-25T11:15:34-05:00",
+      "updated_at": "2025-10-01T03:07:59-05:00",
+      "timestamp": "2025-10-01T09:33:20-05:00"
+    },
+    {
+      "id": 217702,
+      "api_model": "artworks",
+      "api_link": "https:\/\/api.artic.edu\/api\/v1\/artworks\/217702",
+      "is_boosted": false,
+      "title": "Pair of Candelabra",
+      "alt_titles": null,
+      "thumbnail": {
+        "lqip": "data:image\/gif;base64,R0lGODlhBwAFAPQAANLLwdLKwtHLxNHMxdTOxdXPxtXQydbRytfSzNrW0d\/b193a2N7b2N7c2uDc1+Dd2eDc2uDd2uHf3+Pg3uLg3+Th3uLg4OPh4OLh4ePi4uTi4uXj4+fk4uXj5OXk5efm5CH5BAAAAAAALAAAAAAHAAUAAAUdIJZ1m7ZZDRVdHiUlSEEwAbQMwmEAyjc9FYeCEwIAOw==",
+        "width": 3000,
+        "height": 2250,
+        "alt_text": "A work made of silver."
+      },
+      "main_reference_number": "2013.73.1-2",
+      "has_not_been_viewed_much": true,
+      "boost_rank": null,
+      "date_start": 1940,
+      "date_end": 1950,
+      "date_display": "1940\u201350",
+      "date_qualifier_title": "c.",
+      "date_qualifier_id": 60,
+      "artist_display": "Kalo Shop (American, 1900\u201370)\nChicago",
+      "place_of_origin": "Chicago",
+      "description": null,
+      "short_description": null,
+      "dimensions": "Each: 9.6 \u00d7 16.7 \u00d7 15.8 cm (3 3\/4 \u00d7 6 9\/16 \u00d7 6 3\/16 in.)",
+      "dimensions_detail": [
+        {
+          "depth": 15,
+          "width": 16,
+          "height": 9,
+          "diameter": null,
+          "clarification": "Each"
+        }
+      ],
+      "medium_display": "Silver",
+      "inscriptions": "Each marked bottom, bottom-middle edge, on bobeche, stamped: \"HAND \/ WROUGHT \/ STERLING \/ KALO \/ C 16\".",
+      "credit_line": "Gift of Rose Shure",
+      "catalogue_display": null,
+      "publication_history": "Judith A. Barter, Elizabeth McGoey, et al., American Silver in the Art Institute of Chicago (Yale University Press, 2016), cat. 92 (ill.).\n\nElizabeth McGoey, ed., American Silver in the Art Institute of Chicago (Art Institute of Chicago, 2018), <a href=\"https:\/\/publications.artic.edu\/americansilver\/reader\/collection\/section\/6\">https:\/\/publications.artic.edu\/americansilver\/reader\/collection\/section\/6<\/a>, cat. 92 (ill.).",
+      "exhibition_history": null,
+      "provenance_text": "Kalo Shop, Chicago; sold to Rose Shure (died 2016), Chicago, late 1940s\u2013early 1950s; given to the Art Institute of Chicago, 2013.",
+      "edition": null,
+      "publishing_verification_level": "Web Cataloged",
+      "internal_department_id": 21,
+      "fiscal_year": 2013,
+      "fiscal_year_deaccession": null,
+      "is_public_domain": false,
+      "is_zoomable": false,
+      "max_zoom_window_size": 843,
+      "copyright_notice": null,
+      "has_multimedia_resources": true,
+      "has_educational_resources": false,
+      "has_advanced_imaging": false,
+      "colorfulness": 8.3378,
+      "color": {
+        "h": 67,
+        "l": 24,
+        "s": 6,
+        "percentage": 0.00018769614246888,
+        "population": 1
+      },
+      "latitude": null,
+      "longitude": null,
+      "latlon": null,
+      "is_on_view": false,
+      "on_loan_display": null,
+      "gallery_title": null,
+      "gallery_id": null,
+      "nomisma_id": null,
+      "artwork_type_title": "Metalwork",
+      "artwork_type_id": 35,
+      "department_title": "Arts of the Americas",
+      "department_id": "PC-3",
+      "artist_id": 35185,
+      "artist_title": "Kalo Shop (Firm)",
+      "alt_artist_ids": [],
+      "artist_ids": [
+        35185
+      ],
+      "artist_titles": [
+        "Kalo Shop (Firm)"
+      ],
+      "category_ids": [
+        "PC-3"
+      ],
+      "category_titles": [
+        "Arts of the Americas"
+      ],
+      "term_titles": [
+        "candleholder",
+        "silver",
+        "Chicago",
+        "Arts and Crafts Movement",
+        "candleholder - candelabra",
+        "decorative arts",
+        "American Arts and Crafts Movement"
+      ],
+      "style_id": "TM-7569",
+      "style_title": "Arts and Crafts Movement",
+      "alt_style_ids": [
+        "TM-14958"
+      ],
+      "style_ids": [
+        "TM-7569",
+        "TM-14958"
+      ],
+      "style_titles": [
+        "Arts and Crafts Movement",
+        "American Arts and Crafts Movement"
+      ],
+      "classification_id": "TM-11771",
+      "classification_title": "candleholder",
+      "alt_classification_ids": [
+        "TM-109",
+        "TM-1678"
+      ],
+      "classification_ids": [
+        "TM-11771",
+        "TM-109",
+        "TM-1678"
+      ],
+      "classification_titles": [
+        "candleholder",
+        "candleholder - candelabra",
+        "decorative arts"
+      ],
+      "subject_id": "TM-12075",
+      "alt_subject_ids": [],
+      "subject_ids": [
+        "TM-12075"
+      ],
+      "subject_titles": [
+        "Chicago"
+      ],
+      "material_id": "TM-2436",
+      "alt_material_ids": [],
+      "material_ids": [
+        "TM-2436"
+      ],
+      "material_titles": [
+        "silver"
+      ],
+      "technique_id": null,
+      "alt_technique_ids": [],
+      "technique_ids": [],
+      "technique_titles": [],
+      "theme_titles": [],
+      "image_id": "598ba791-31ee-b9e5-cbb2-e61e62fdf200",
+      "alt_image_ids": [],
+      "document_ids": [],
+      "sound_ids": [],
+      "video_ids": [],
+      "text_ids": [],
+      "section_ids": [
+        13692
+      ],
+      "section_titles": [
+        "Cat. 92 \u00a0Candelabra, 1940\/50"
+      ],
+      "site_ids": [],
+      "suggest_autocomplete_all": [
+        {
+          "input": [
+            "2013.73.1-2"
+          ],
+          "contexts": {
+            "groupings": [
+              "accession"
+            ]
+          }
+        },
+        {
+          "input": [
+            "Pair of Candelabra"
+          ],
+          "weight": 84,
+          "contexts": {
+            "groupings": [
+              "title"
+            ]
+          }
+        }
+      ],
+      "source_updated_at": "2025-06-06T11:17:44-05:00",
+      "updated_at": "2025-10-01T03:07:58-05:00",
+      "timestamp": "2025-10-01T09:33:20-05:00"
+    },
+    {
+      "id": 156589,
+      "api_model": "artworks",
+      "api_link": "https:\/\/api.artic.edu\/api\/v1\/artworks\/156589",
+      "is_boosted": false,
+      "title": "Chalice (one of a group)",
+      "alt_titles": null,
+      "thumbnail": {
+        "lqip": "data:image\/gif;base64,R0lGODlhBAAFAPQAAHR0dXR1dnd3d7Z0dLd0dY6Pj5KSk6iglamhlr\/AwMDBws\/Oy8\/Py9ff3+HFx+HGx9jg4Obo6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoBAAgoEchcIsCUQMTeQ8UQgAOw==",
+        "width": 2250,
+        "height": 3000,
+        "alt_text": "A work made of silver, gold plating, and red enamel."
+      },
+      "main_reference_number": "2001.2.1",
+      "has_not_been_viewed_much": true,
+      "boost_rank": null,
+      "date_start": 1955,
+      "date_end": 1960,
+      "date_display": "1955\u201360",
+      "date_qualifier_title": "",
+      "date_qualifier_id": null,
+      "artist_display": "Renard Koehnemann (American, 1918\u20131999)",
+      "place_of_origin": "Chicago",
+      "description": "<p>Chicago silversmith Renard Koehnemann\u2019s practice consisted mainly of custom-designed, hand-forged chalices and patens for newly ordained priests. In accordance with his philosophy, each chalice is different yet expresses a contemporary aesthetic. A student of Daniel Pederson of Chicago\u2019s Kalo workshop\u2014the city\u2019s premier source for handwrought silver wares in the first half of the 20th century\u2014Koehnemann achieved elegant expressions of modernity through simple forms and the use of contrasting materials.<\/p>\n",
+      "short_description": null,
+      "dimensions": "16.5 \u00d7 10.5 cm (6 1\/2 \u00d7 4 1\/8 in.)",
+      "dimensions_detail": [
+        {
+          "depth": null,
+          "width": 10,
+          "height": 16,
+          "diameter": null,
+          "clarification": null
+        }
+      ],
+      "medium_display": "Silver, gold plating, and red enamel",
+      "inscriptions": "Marked on bottom: HAND WROUGHT \/ STERLING \/ RAK\nPierced around stem: LOVE ONE ANOTHER (next to Sacred Heart symbol)",
+      "credit_line": "Gift of Walter Placko in memory of Renard Koehnemann",
+      "catalogue_display": null,
+      "publication_history": "Jennifer M. Downs, \u201c \u2018The New Modern Feeling\u2019: A Catalogue of the Collection,\u201d Art Institute of Chicago Museum Studies 27, 2 (2001), 99\u2013100, cat. 30.\n\nJudith A. Barter, Elizabeth McGoey, et al., American Silver in the Art Institute of Chicago (Yale University Press, 2016), cat. 98 (ill.).\n\nElizabeth McGoey, ed., American Silver in the Art Institute of Chicago (Art Institute of Chicago, 2018), <a href=\"https:\/\/publications.artic.edu\/americansilver\/reader\/collection\/section\/6\">https:\/\/publications.artic.edu\/americansilver\/reader\/collection\/section\/6<\/a>, cat. 98 (ill.).",
+      "exhibition_history": null,
+      "provenance_text": "Renard Koehnemann (1918-1999), Chesterton, IN, until 1999; bequeathed to Walter Placko (died c. 2014), Chesterton, IN, 1999; given to the Art Institute of Chicago, 2001.",
+      "edition": null,
+      "publishing_verification_level": "Web Cataloged",
+      "internal_department_id": 21,
+      "fiscal_year": 2001,
+      "fiscal_year_deaccession": null,
+      "is_public_domain": false,
+      "is_zoomable": false,
+      "max_zoom_window_size": 843,
+      "copyright_notice": null,
+      "has_multimedia_resources": true,
+      "has_educational_resources": false,
+      "has_advanced_imaging": false,
+      "colorfulness": 34.4329,
+      "color": {
+        "h": 359,
+        "l": 47,
+        "s": 69,
+        "percentage": 0.04643642642148234,
+        "population": 440
+      },
+      "latitude": null,
+      "longitude": null,
+      "latlon": null,
+      "is_on_view": false,
+      "on_loan_display": null,
+      "gallery_title": null,
+      "gallery_id": null,
+      "nomisma_id": null,
+      "artwork_type_title": "Metalwork",
+      "artwork_type_id": 35,
+      "department_title": "Arts of the Americas",
+      "department_id": "PC-3",
+      "artist_id": 92545,
+      "artist_title": "Renard Koehnemann",
+      "alt_artist_ids": [],
+      "artist_ids": [
+        92545
+      ],
+      "artist_titles": [
+        "Renard Koehnemann"
+      ],
+      "category_ids": [
+        "PC-3"
+      ],
+      "category_titles": [
+        "Arts of the Americas"
+      ],
+      "term_titles": [
+        "drinking vessel",
+        "silver",
+        "Chicago",
+        "Arts and Crafts Movement",
+        "silver",
+        "american decorative arts",
+        "american arts",
+        "decorative arts",
+        "American Arts and Crafts Movement"
+      ],
+      "style_id": "TM-7569",
+      "style_title": "Arts and Crafts Movement",
+      "alt_style_ids": [
+        "TM-14958"
+      ],
+      "style_ids": [
+        "TM-7569",
+        "TM-14958"
+      ],
+      "style_titles": [
+        "Arts and Crafts Movement",
+        "American Arts and Crafts Movement"
+      ],
+      "classification_id": "TM-11734",
+      "classification_title": "drinking vessel",
+      "alt_classification_ids": [
+        "TM-161",
+        "TM-2190",
+        "TM-2191",
+        "TM-1678"
+      ],
+      "classification_ids": [
+        "TM-11734",
+        "TM-161",
+        "TM-2190",
+        "TM-2191",
+        "TM-1678"
+      ],
+      "classification_titles": [
+        "drinking vessel",
+        "silver",
+        "american decorative arts",
+        "american arts",
+        "decorative arts"
+      ],
+      "subject_id": "TM-12075",
+      "alt_subject_ids": [],
+      "subject_ids": [
+        "TM-12075"
+      ],
+      "subject_titles": [
+        "Chicago"
+      ],
+      "material_id": "TM-2436",
+      "alt_material_ids": [],
+      "material_ids": [
+        "TM-2436"
+      ],
+      "material_titles": [
+        "silver"
+      ],
+      "technique_id": null,
+      "alt_technique_ids": [],
+      "technique_ids": [],
+      "technique_titles": [],
+      "theme_titles": [],
+      "image_id": "7aa10306-cb97-7bbd-e5ce-8ab07ca7b549",
+      "alt_image_ids": [
+        "82a48139-9b9c-d194-ed9e-42cb03caca56",
+        "2e480b7a-5241-1146-ad20-8e9dd7b2f94a",
+        "d34f3280-384e-96dc-226e-35511d264c21",
+        "6ba8629a-fdcd-971e-0e15-6eb8eece3d07",
+        "f6778da1-c830-4cd1-c7b6-972851f954ed"
+      ],
+      "document_ids": [],
+      "sound_ids": [],
+      "video_ids": [],
+      "text_ids": [],
+      "section_ids": [
+        14875
+      ],
+      "section_titles": [
+        "Cat. 98 \u00a0Chalice, 1955\/60"
+      ],
+      "site_ids": [],
+      "suggest_autocomplete_all": [
+        {
+          "input": [
+            "2001.2.1"
+          ],
+          "contexts": {
+            "groupings": [
+              "accession"
+            ]
+          }
+        },
+        {
+          "input": [
+            "Chalice (one of a group)"
+          ],
+          "weight": 111,
+          "contexts": {
+            "groupings": [
+              "title"
+            ]
+          }
+        }
+      ],
+      "source_updated_at": "2025-06-06T11:17:44-05:00",
+      "updated_at": "2025-10-01T03:07:58-05:00",
+      "timestamp": "2025-10-01T09:33:20-05:00"
+    },
+    {
+      "id": 152746,
+      "api_model": "artworks",
+      "api_link": "https:\/\/api.artic.edu\/api\/v1\/artworks\/152746",
+      "is_boosted": false,
+      "title": "Pitcher",
+      "alt_titles": null,
+      "thumbnail": {
+        "lqip": "data:image\/gif;base64,R0lGODlhBAAFAPQAAKKkqKOlqqanqaqrrbSzs7K0try6t7a4u8PEw8XFwszGwMzJxM7MyM\/MyM7NztHPzNPQzNfSzNLS0NDS1gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoDAEwGEQxQQtThIxyKM0UggAOw==",
+        "width": 2250,
+        "height": 3000,
+        "alt_text": "A work made of silver."
+      },
+      "main_reference_number": "1999.292",
+      "has_not_been_viewed_much": false,
+      "boost_rank": null,
+      "date_start": 1947,
+      "date_end": 1956,
+      "date_display": "1947\u201356",
+      "date_qualifier_title": "c.",
+      "date_qualifier_id": 60,
+      "artist_display": "Design attributed to Oscar Riedener (American, born Switzerland, 1910\u20132000)\nTiffany and Company (American, founded 1837)\nNew York",
+      "place_of_origin": "New York City",
+      "description": "<p>The unusual, dynamic shape of this pitcher is void of historical references and exemplifies the sleek, unadorned idiom that prevailed in American design after World War II. While the pitcher\u2019s form is thoroughly modern, the traditional material and hammered texture of the body, however, recall the handcrafted aesthetic that characterized American Arts and Crafts metalwork of the early 20th century. Emerging from a bulbous body that tapers at the neck, the arching spout and curving handle suggest a split botanical stalk splaying in two directions.<\/p>\n",
+      "short_description": null,
+      "dimensions": "28.3 \u00d7 20.3 \u00d7 14 cm (11 1\/8 \u00d7 8 \u00d7 5 1\/2 in.)",
+      "dimensions_detail": [
+        {
+          "depth": 14,
+          "width": 20,
+          "height": 28,
+          "diameter": null,
+          "clarification": null
+        }
+      ],
+      "medium_display": "Silver",
+      "inscriptions": "Marked on bottom: TIFFANY & CO. \/ MAKERS \/ STERLING SILVER \/ 12673 \/ W",
+      "credit_line": "The Orbit Fund",
+      "catalogue_display": null,
+      "publication_history": "John Loring, \"Magnificent Tiffany Silver,\" (Abrams,2001), 247.\n\nJennifer M. Downs, \u201c \u2018The New Modern Feeling\u2019: A Catalogue of the Collection,\u201d Art Institute of Chicago Museum Studies 27, 2 (2001), 88\u201389, cat. 25.\n\nJudith A. Barter, et al., <em>American Modernism at the Art Institute of Chicago, From World War I to 1955<\/em> (Art Institute of Chicago, 2009), cat. 172.\n\nJudith A. Barter, Elizabeth McGoey, et al., American Silver in the Art Institute of Chicago (Yale University Press, 2016), cat. 93 (ill.).\n\nElizabeth McGoey, ed., American Silver in the Art Institute of Chicago (Art Institute of Chicago, 2018), <a href=\"https:\/\/publications.artic.edu\/americansilver\/reader\/collection\/section\/6\">https:\/\/publications.artic.edu\/americansilver\/reader\/collection\/section\/6<\/a>, cat. 93 (ill.).",
+      "exhibition_history": null,
+      "provenance_text": "Unknown gallery, Munich, by c. 1975; sold to private collector, Indiana, c. 1975-c. 1999; Historical Design, Inc. New York, by 1999; sold to the Art Institute of Chicago, 1999.",
+      "edition": null,
+      "publishing_verification_level": "Web Cataloged",
+      "internal_department_id": 21,
+      "fiscal_year": 1999,
+      "fiscal_year_deaccession": null,
+      "is_public_domain": false,
+      "is_zoomable": false,
+      "max_zoom_window_size": 843,
+      "copyright_notice": null,
+      "has_multimedia_resources": true,
+      "has_educational_resources": false,
+      "has_advanced_imaging": false,
+      "colorfulness": 6.3683,
+      "color": {
+        "h": 216,
+        "l": 66,
+        "s": 3,
+        "percentage": 0.29212733712423433,
+        "population": 2768
+      },
+      "latitude": null,
+      "longitude": null,
+      "latlon": null,
+      "is_on_view": false,
+      "on_loan_display": null,
+      "gallery_title": null,
+      "gallery_id": null,
+      "nomisma_id": null,
+      "artwork_type_title": "Metalwork",
+      "artwork_type_id": 35,
+      "department_title": "Arts of the Americas",
+      "department_id": "PC-3",
+      "artist_id": 86403,
+      "artist_title": "Oscar Riedener",
+      "alt_artist_ids": [],
+      "artist_ids": [
+        86403
+      ],
+      "artist_titles": [
+        "Oscar Riedener"
+      ],
+      "category_ids": [
+        "PC-832",
+        "PC-3"
+      ],
+      "category_titles": [
+        "Drinking and Dining",
+        "Arts of the Americas"
+      ],
+      "term_titles": [
+        "pitcher (vessel)",
+        "silver",
+        "Modernism",
+        "vessel",
+        "silver",
+        "american decorative arts",
+        "american arts",
+        "dining",
+        "drinking",
+        "decorative arts"
+      ],
+      "style_id": "TM-5981",
+      "style_title": "Modernism",
+      "alt_style_ids": [],
+      "style_ids": [
+        "TM-5981"
+      ],
+      "style_titles": [
+        "Modernism"
+      ],
+      "classification_id": "TM-11715",
+      "classification_title": "pitcher (vessel)",
+      "alt_classification_ids": [
+        "TM-27",
+        "TM-161",
+        "TM-2190",
+        "TM-2191",
+        "TM-1678"
+      ],
+      "classification_ids": [
+        "TM-11715",
+        "TM-27",
+        "TM-161",
+        "TM-2190",
+        "TM-2191",
+        "TM-1678"
+      ],
+      "classification_titles": [
+        "pitcher (vessel)",
+        "vessel",
+        "silver",
+        "american decorative arts",
+        "american arts",
+        "decorative arts"
+      ],
+      "subject_id": null,
+      "alt_subject_ids": [
+        "TM-12076",
+        "TM-12077"
+      ],
+      "subject_ids": [
+        "TM-12076",
+        "TM-12077"
+      ],
+      "subject_titles": [
+        "dining",
+        "drinking"
+      ],
+      "material_id": "TM-2436",
+      "alt_material_ids": [],
+      "material_ids": [
+        "TM-2436"
+      ],
+      "material_titles": [
+        "silver"
+      ],
+      "technique_id": null,
+      "alt_technique_ids": [],
+      "technique_ids": [],
+      "technique_titles": [],
+      "theme_titles": [
+        "Drinking and Dining"
+      ],
+      "image_id": "3de37eba-7ef7-ab0e-5326-5d04b72d8f89",
+      "alt_image_ids": [],
+      "document_ids": [],
+      "sound_ids": [],
+      "video_ids": [],
+      "text_ids": [],
+      "section_ids": [
+        14025
+      ],
+      "section_titles": [
+        "Cat. 93 \u00a0Pitcher, 1947\/56"
+      ],
+      "site_ids": [],
+      "suggest_autocomplete_all": [
+        {
+          "input": [
+            "1999.292"
+          ],
+          "contexts": {
+            "groupings": [
+              "accession"
+            ]
+          }
+        },
+        {
+          "input": [
+            "Pitcher"
+          ],
+          "weight": 217,
+          "contexts": {
+            "groupings": [
+              "title"
+            ]
+          }
+        }
+      ],
+      "source_updated_at": "2025-06-06T11:17:44-05:00",
+      "updated_at": "2025-10-01T03:07:58-05:00",
+      "timestamp": "2025-10-01T09:33:20-05:00"
+    },
+    {
+      "id": 107349,
+      "api_model": "artworks",
+      "api_link": "https:\/\/api.artic.edu\/api\/v1\/artworks\/107349",
+      "is_boosted": false,
+      "title": "Pin",
+      "alt_titles": null,
+      "thumbnail": {
+        "lqip": "data:image\/gif;base64,R0lGODlhBAAFAPQAAE5HQVJMRltWU2JeW2liXWpkX2dmZmdnZ2xsbGxsbW1tbW1tbnBwcHFxcXNzc3Vzcnd2dXp5eXt6eQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoPJATEIUyxEAhjIISBNJTggAOw==",
+        "width": 1800,
+        "height": 2250,
+        "alt_text": "A work made of silver and ebony."
+      },
+      "main_reference_number": "1984.720",
+      "has_not_been_viewed_much": true,
+      "boost_rank": null,
+      "date_start": 1952,
+      "date_end": 1955,
+      "date_display": "1952\u201355",
+      "date_qualifier_title": "c.",
+      "date_qualifier_id": 60,
+      "artist_display": "Ed Wiener\nAmerican, 1918\u20131991\nNew York",
+      "place_of_origin": "New York City",
+      "description": null,
+      "short_description": null,
+      "dimensions": "6.1 \u00d7 2.8 cm (2 3\/8 \u00d7 1 1\/8 in.)",
+      "dimensions_detail": [
+        {
+          "depth": null,
+          "width": 2,
+          "height": 6,
+          "diameter": null,
+          "clarification": null
+        }
+      ],
+      "medium_display": "Silver and ebony",
+      "inscriptions": null,
+      "credit_line": "Gift of Anndora L. Morginson",
+      "catalogue_display": null,
+      "publication_history": "Judith A. Barter, Elizabeth McGoey, et al., American Silver in the Art Institute of Chicago (Yale University Press, 2016), cat. 96 (ill.).\n\nElizabeth McGoey, ed., American Silver in the Art Institute of Chicago (Art Institute of Chicago, 2018), <a href=\"https:\/\/publications.artic.edu\/americansilver\/reader\/collection\/section\/6\">https:\/\/publications.artic.edu\/americansilver\/reader\/collection\/section\/6<\/a>, cat. 96 (ill.).",
+      "exhibition_history": null,
+      "provenance_text": "Mrs. Earle E. Langeland, c. 1952-74; Anndora L. Morginson, Chicago, 1974-84; given to the Art Institute of Chicago, 1984.",
+      "edition": null,
+      "publishing_verification_level": "Web Cataloged",
+      "internal_department_id": 21,
+      "fiscal_year": null,
+      "fiscal_year_deaccession": null,
+      "is_public_domain": false,
+      "is_zoomable": false,
+      "max_zoom_window_size": 843,
+      "copyright_notice": null,
+      "has_multimedia_resources": true,
+      "has_educational_resources": false,
+      "has_advanced_imaging": false,
+      "colorfulness": 8.74,
+      "color": null,
+      "latitude": null,
+      "longitude": null,
+      "latlon": null,
+      "is_on_view": false,
+      "on_loan_display": null,
+      "gallery_title": null,
+      "gallery_id": null,
+      "nomisma_id": null,
+      "artwork_type_title": "Costume and Accessories",
+      "artwork_type_id": 12,
+      "department_title": "Arts of the Americas",
+      "department_id": "PC-3",
+      "artist_id": 33106,
+      "artist_title": "Ed Wiener",
+      "alt_artist_ids": [],
+      "artist_ids": [
+        33106
+      ],
+      "artist_titles": [
+        "Ed Wiener"
+      ],
+      "category_ids": [
+        "PC-3"
+      ],
+      "category_titles": [
+        "Arts of the Americas"
+      ],
+      "term_titles": [
+        "jewelry",
+        "silver",
+        "american decorative arts",
+        "american arts",
+        "decorative arts"
+      ],
+      "style_id": null,
+      "style_title": null,
+      "alt_style_ids": [],
+      "style_ids": [],
+      "style_titles": [],
+      "classification_id": "TM-115",
+      "classification_title": "jewelry",
+      "alt_classification_ids": [
+        "TM-2190",
+        "TM-2191",
+        "TM-1678"
+      ],
+      "classification_ids": [
+        "TM-115",
+        "TM-2190",
+        "TM-2191",
+        "TM-1678"
+      ],
+      "classification_titles": [
+        "jewelry",
+        "american decorative arts",
+        "american arts",
+        "decorative arts"
+      ],
+      "subject_id": null,
+      "alt_subject_ids": [],
+      "subject_ids": [],
+      "subject_titles": [],
+      "material_id": "TM-2436",
+      "alt_material_ids": [],
+      "material_ids": [
+        "TM-2436"
+      ],
+      "material_titles": [
+        "silver"
+      ],
+      "technique_id": null,
+      "alt_technique_ids": [],
+      "technique_ids": [],
+      "technique_titles": [],
+      "theme_titles": [],
+      "image_id": "f34f3bd9-a25c-c99d-4da0-2838231e2fd4",
+      "alt_image_ids": [],
+      "document_ids": [],
+      "sound_ids": [],
+      "video_ids": [],
+      "text_ids": [],
+      "section_ids": [
+        14532
+      ],
+      "section_titles": [
+        "Cat. 96 \u00a0Pin, 1952\/55"
+      ],
+      "site_ids": [],
+      "suggest_autocomplete_all": [
+        {
+          "input": [
+            "1984.720"
+          ],
+          "contexts": {
+            "groupings": [
+              "accession"
+            ]
+          }
+        },
+        {
+          "input": [
+            "Pin"
+          ],
+          "weight": 1,
+          "contexts": {
+            "groupings": [
+              "title"
+            ]
+          }
+        }
+      ],
+      "source_updated_at": "2025-06-06T11:17:44-05:00",
+      "updated_at": "2025-10-01T03:07:58-05:00",
+      "timestamp": "2025-10-01T09:33:20-05:00"
+    },
+    {
+      "id": 104354,
+      "api_model": "artworks",
+      "api_link": "https:\/\/api.artic.edu\/api\/v1\/artworks\/104354",
+      "is_boosted": false,
+      "title": "Bonbonni\u00e8re",
+      "alt_titles": null,
+      "thumbnail": {
+        "lqip": "data:image\/gif;base64,R0lGODlhBQAFAPQAAIqNjKmhmq+rprGrpbSup7q3tru4tcXCvsfEwdva2t7d3ebk5Obk5ebl5efl5ufm5ujm5+no6Oro6QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUV4NJAjtM8DgRFCHBIChEMyWMIBRMCADs=",
+        "width": 3000,
+        "height": 2939,
+        "alt_text": "A work made of silver and cloisonn\u00e9 enamel."
+      },
+      "main_reference_number": "1985.516a-b",
+      "has_not_been_viewed_much": false,
+      "boost_rank": null,
+      "date_start": 1938,
+      "date_end": 1938,
+      "date_display": "1938",
+      "date_qualifier_title": "",
+      "date_qualifier_id": null,
+      "artist_display": "Margret Craver\nAmerican, 1907\u20132010\nWichita, Kansas",
+      "place_of_origin": "Wichita",
+      "description": "<p>Trained in the Arts and Crafts tradition of metalworking, Margaret Craver was nonetheless influenced by instructors at Michigan\u2019s Cranbrook Academy of Art, mid-20th-century America\u2019s premier design center. As a result, she created handcrafted hollowware and jewelry out of traditional materials such as sterling silver and enamel, yet she imbued her dynamic pieces with colorful, energetic patterns. In this work, Craver married the smooth surfaces, decorative flourishes, and exquisite workmanship of Scandinavian design with the unified geometry of Art Deco decoration.<\/p>\n",
+      "short_description": null,
+      "dimensions": "5.7 \u00d7 13.4 \u00d7 13.4 cm (2 3\/4 \u00d7 5 1\/4 \u00d7 5 1\/4 in.)",
+      "dimensions_detail": [
+        {
+          "depth": 13,
+          "width": 13,
+          "height": 5,
+          "diameter": null,
+          "clarification": null
+        }
+      ],
+      "medium_display": "Silver and cloisonn\u00e9 enamel",
+      "inscriptions": "Marked on bottom: STERLING \/ c",
+      "credit_line": "Americana Endowment Fund",
+      "catalogue_display": null,
+      "publication_history": "Jennifer M. Downs, \u201cThe New Modern Feeling\u2019: A Catalogue of the Collection,\u201d <em>Art Institute of Chicago Museum Studies<\/em> 27, 2 (2001), 66\u201367, no. 18.\n\nJudith A. Barter, et al., <em>American Modernism at the Art Institute of Chicago, From World War I to 1955<\/em> (Art Institute of Chicago, 2009), cat. 115. \n\nJudith A. Barter, Elizabeth McGoey, et al., <em>American Silver in the Art Institute of Chicago<\/em> (Yale University Press, 2016), cat. 91 (ill.).\n\nElizabeth McGoey, ed., <em>American Silver in the Art Institute of Chicago<\/em> (Art Institute of Chicago, 2018), <a href=\"https:\/\/publications.artic.edu\/americansilver\/reader\/collection\/section\/6\">https:\/\/publications.artic.edu\/americansilver\/reader\/collection\/section\/6<\/a>, cat. 91 (ill.).\n\nBobbye Tigerman, et al., <em>Scandinavian Design and the United States, 1890\u20131980<\/em>, exh. cat. (DelMonico Books\u2022Prestel, 2020), 195, cat. 21 (ill.).",
+      "exhibition_history": "Possibly Philadelphia, <em>Art Alliance Exhibition<\/em>, 1938.\n\nStockholm, Nationalmuseum, <em>Scandinavian Design and the United States, 1890\u20131980<\/em>, Oct. 14, 2021\u2013Jan. 9, 2022; Oslo, Nasjonalmuseet for Kunst, Mar. 17\u2013Aug. 7, 2022; Los Angeles County Museum of Art, Oct. 9, 2022\u2013Feb. 5, 2023; Milwaukee Art Museum, Mar. 24\u2013July 23, 2023, cat. 21 (Stockholm, Los Angeles, and Milwaukee only).",
+      "provenance_text": "Margaret Craver, Wichita, KS, 1938; sold to the Art Institute of Chicago, 1985.",
+      "edition": null,
+      "publishing_verification_level": "Web Cataloged",
+      "internal_department_id": 21,
+      "fiscal_year": null,
+      "fiscal_year_deaccession": null,
+      "is_public_domain": false,
+      "is_zoomable": false,
+      "max_zoom_window_size": 843,
+      "copyright_notice": null,
+      "has_multimedia_resources": true,
+      "has_educational_resources": false,
+      "has_advanced_imaging": false,
+      "colorfulness": 7.2011,
+      "color": {
+        "h": 176,
+        "l": 38,
+        "s": 51,
+        "percentage": 0.001148900358744137,
+        "population": 8
+      },
+      "latitude": null,
+      "longitude": null,
+      "latlon": null,
+      "is_on_view": false,
+      "on_loan_display": null,
+      "gallery_title": null,
+      "gallery_id": null,
+      "nomisma_id": null,
+      "artwork_type_title": "Metalwork",
+      "artwork_type_id": 35,
+      "department_title": "Arts of the Americas",
+      "department_id": "PC-3",
+      "artist_id": 30815,
+      "artist_title": "Margret Craver",
+      "alt_artist_ids": [],
+      "artist_ids": [
+        30815
+      ],
+      "artist_titles": [
+        "Margret Craver"
+      ],
+      "category_ids": [
+        "PC-832",
+        "PC-825",
+        "PC-3"
+      ],
+      "category_titles": [
+        "Drinking and Dining",
+        "Women artists",
+        "Arts of the Americas"
+      ],
+      "term_titles": [
+        "container",
+        "silver",
+        "Modernism",
+        "box",
+        "silver",
+        "american decorative arts",
+        "american arts",
+        "Art Deco",
+        "dining",
+        "drinking",
+        "decorative arts"
+      ],
+      "style_id": "TM-5981",
+      "style_title": "Modernism",
+      "alt_style_ids": [
+        "TM-5976"
+      ],
+      "style_ids": [
+        "TM-5981",
+        "TM-5976"
+      ],
+      "style_titles": [
+        "Modernism",
+        "Art Deco"
+      ],
+      "classification_id": "TM-297",
+      "classification_title": "container",
+      "alt_classification_ids": [
+        "TM-134",
+        "TM-161",
+        "TM-2190",
+        "TM-2191",
+        "TM-1678"
+      ],
+      "classification_ids": [
+        "TM-297",
+        "TM-134",
+        "TM-161",
+        "TM-2190",
+        "TM-2191",
+        "TM-1678"
+      ],
+      "classification_titles": [
+        "container",
+        "box",
+        "silver",
+        "american decorative arts",
+        "american arts",
+        "decorative arts"
+      ],
+      "subject_id": null,
+      "alt_subject_ids": [
+        "TM-12076",
+        "TM-12077"
+      ],
+      "subject_ids": [
+        "TM-12076",
+        "TM-12077"
+      ],
+      "subject_titles": [
+        "dining",
+        "drinking"
+      ],
+      "material_id": "TM-2436",
+      "alt_material_ids": [],
+      "material_ids": [
+        "TM-2436"
+      ],
+      "material_titles": [
+        "silver"
+      ],
+      "technique_id": null,
+      "alt_technique_ids": [],
+      "technique_ids": [],
+      "technique_titles": [],
+      "theme_titles": [
+        "Drinking and Dining",
+        "Women artists"
+      ],
+      "image_id": "cbb422f4-409a-73a9-b0a6-6ece1107704d",
+      "alt_image_ids": [
+        "b196864d-9cd8-4144-9d30-b0ef55a16f7e"
+      ],
+      "document_ids": [],
+      "sound_ids": [],
+      "video_ids": [],
+      "text_ids": [],
+      "section_ids": [
+        13527
+      ],
+      "section_titles": [
+        "Cat. 91 \u00a0Bonbonni\u00e8re, 1938"
+      ],
+      "site_ids": [],
+      "suggest_autocomplete_all": [
+        {
+          "input": [
+            "1985.516a-b"
+          ],
+          "contexts": {
+            "groupings": [
+              "accession"
+            ]
+          }
+        },
+        {
+          "input": [
+            "Bonbonni\u00e8re"
+          ],
+          "weight": 605,
+          "contexts": {
+            "groupings": [
+              "title"
+            ]
+          }
+        }
+      ],
+      "source_updated_at": "2025-06-06T12:22:03-05:00",
+      "updated_at": "2025-10-01T03:07:58-05:00",
+      "timestamp": "2025-10-01T09:33:21-05:00"
+    },
+    {
+      "id": 73121,
+      "api_model": "artworks",
+      "api_link": "https:\/\/api.artic.edu\/api\/v1\/artworks\/73121",
+      "is_boosted": false,
+      "title": "Near Tivoli",
+      "alt_titles": null,
+      "thumbnail": {
+        "lqip": "data:image\/gif;base64,R0lGODlhCAAFAPUAACcxJCw6LzE9MDQ\/Mi9DOz1CMEpKMlVUPUJWTVVoX3BvVneJfoWBY5GhlpelmJionqG2rKu\/saC\/vazMyrPQzLLRz7DR0LbV07LV1b7b2MPTxcrd1cTe2snf2cri3dbl29vp39vp4Obu4OPy5+b06+j27ez47QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAYlQAums6lYJpIL5yMKeTKUkalEAmkiEMejsUggCANBAGBgKAqHIAA7",
+        "width": 3000,
+        "height": 1993,
+        "alt_text": "A work made of watercolor over graphite with gum arabic on cream laid paper."
+      },
+      "main_reference_number": "1988.513",
+      "has_not_been_viewed_much": false,
+      "boost_rank": null,
+      "date_start": 1777,
+      "date_end": 1777,
+      "date_display": "1777",
+      "date_qualifier_title": "",
+      "date_qualifier_id": null,
+      "artist_display": "Thomas Jones\nWelsh, 1742-1803",
+      "place_of_origin": "Wales",
+      "description": null,
+      "short_description": null,
+      "dimensions": "28.5 \u00d7 42.5 cm (11 1\/4 \u00d7 16 3\/4 in.)",
+      "dimensions_detail": [
+        {
+          "depth": null,
+          "width": 42,
+          "height": 28,
+          "diameter": null,
+          "clarification": null
+        }
+      ],
+      "medium_display": "Watercolor over graphite with gum arabic on cream laid paper",
+      "inscriptions": null,
+      "credit_line": "Purchased with funds provided by Dr. William Shorey in memory of Sara R. Shorey and the Olivia Shaler Swan Memorial Fund",
+      "catalogue_display": null,
+      "publication_history": "\"Memoirs of Thomas Jones,\" Walpole Society XXXII (1946-1948), p. 65.\n\nLawrence Gowing, The Originality of Thomas Jones (London, 1985), p. 33 (ill.).",
+      "exhibition_history": "London, Thomas Agnew and Sons Limited, \"116th Exhibition of Watercolours and Drawings,\" February 20-March 17, 1989, cat. 7.\n\nNew York, The Frick Collection, \"From Pontormo to Seurat: Drawings Recently Acquired by The Art Institute of Chicago,\" April 23-July 7, 1991, n.p., cat. 27; traveled to The Art Institute of Chicago, September 10, 1991-January 5, 1992.\n\nThe Art Institute of Chicago, \"The Broad Spectrum: Color on Paper, Past and Present,\" September 12\u2013October 31, 1999, hors. cat.\n\nThe Art Institute of Chicago, \"Building a Collection: New Acquisitions and Promised Gifts of British Art,\" May 1\u2013August 1, 2004, checklist 4.",
+      "provenance_text": "Canon J. H. Adams, step great-great-grandson of the artist; sold, Sotheby\u2019s, London, November 27, 1975, Adams sale, lot 84, to the British Rail Pension Fund [invoice].  Sold, Sotheby\u2019s, London, July 14, 1988, British Rail Pension Fund sale, lot 69;  sold by Thomas Agnew and Sons, London, to the Art Institute, 1988.",
+      "edition": null,
+      "publishing_verification_level": "Web Cataloged",
+      "internal_department_id": 3,
+      "fiscal_year": 1989,
+      "fiscal_year_deaccession": null,
+      "is_public_domain": true,
+      "is_zoomable": true,
+      "max_zoom_window_size": -1,
+      "copyright_notice": null,
+      "has_multimedia_resources": true,
+      "has_educational_resources": false,
+      "has_advanced_imaging": false,
+      "colorfulness": 20.2931,
+      "color": {
+        "h": 168,
+        "l": 49,
+        "s": 11,
+        "percentage": 0.026054905948144386,
+        "population": 123
+      },
+      "latitude": null,
+      "longitude": null,
+      "latlon": null,
+      "is_on_view": false,
+      "on_loan_display": null,
+      "gallery_title": null,
+      "gallery_id": null,
+      "nomisma_id": null,
+      "artwork_type_title": "Drawing and Watercolor",
+      "artwork_type_id": 14,
+      "department_title": "Prints and Drawings",
+      "department_id": "PC-13",
+      "artist_id": 13113,
+      "artist_title": "Thomas Jones",
+      "alt_artist_ids": [],
+      "artist_ids": [
+        13113
+      ],
+      "artist_titles": [
+        "Thomas Jones"
+      ],
+      "category_ids": [
+        "PC-13"
+      ],
+      "category_titles": [
+        "Prints and Drawings"
+      ],
+      "term_titles": [
+        "watercolor",
+        "paper (fiber product)",
+        "watercolor",
+        "water-base paint",
+        "paint",
+        "graphite",
+        "drawings (visual works)",
+        "prints and drawing"
+      ],
+      "style_id": null,
+      "style_title": null,
+      "alt_style_ids": [],
+      "style_ids": [],
+      "style_titles": [],
+      "classification_id": "TM-39",
+      "classification_title": "watercolor",
+      "alt_classification_ids": [
+        "TM-5",
+        "TM-4"
+      ],
+      "classification_ids": [
+        "TM-39",
+        "TM-5",
+        "TM-4"
+      ],
+      "classification_titles": [
+        "watercolor",
+        "drawings (visual works)",
+        "prints and drawing"
+      ],
+      "subject_id": null,
+      "alt_subject_ids": [],
+      "subject_ids": [],
+      "subject_titles": [],
+      "material_id": "TM-2982",
+      "alt_material_ids": [
+        "TM-2403",
+        "TM-3343",
+        "TM-2577",
+        "TM-2410"
+      ],
+      "material_ids": [
+        "TM-2982",
+        "TM-2403",
+        "TM-3343",
+        "TM-2577",
+        "TM-2410"
+      ],
+      "material_titles": [
+        "paper (fiber product)",
+        "watercolor",
+        "water-base paint",
+        "paint",
+        "graphite"
+      ],
+      "technique_id": null,
+      "alt_technique_ids": [],
+      "technique_ids": [],
+      "technique_titles": [],
+      "theme_titles": [],
+      "image_id": "813cdfec-a7e4-ed1d-a816-c041fd49293a",
+      "alt_image_ids": [],
+      "document_ids": [],
+      "sound_ids": [],
+      "video_ids": [],
+      "text_ids": [],
+      "section_ids": [
+        14703
+      ],
+      "section_titles": [
+        "Cat. 97 \u00a0Beverage Server and Cover, 1956"
+      ],
+      "site_ids": [],
+      "suggest_autocomplete_all": [
+        {
+          "input": [
+            "1988.513"
+          ],
+          "contexts": {
+            "groupings": [
+              "accession"
+            ]
+          }
+        },
+        {
+          "input": [
+            "Near Tivoli"
+          ],
+          "weight": 933,
+          "contexts": {
+            "groupings": [
+              "title"
+            ]
+          }
+        }
+      ],
+      "source_updated_at": "2025-07-02T11:22:11-05:00",
+      "updated_at": "2025-10-01T03:07:58-05:00",
+      "timestamp": "2025-10-01T09:33:21-05:00"
+    }
+  ],
+  "info": {
+    "license_text": "The `description` field in this response is licensed under a Creative Commons Attribution 4.0 Generic License (CC-By) and the Terms and Conditions of artic.edu. All other data in this response is licensed under a Creative Commons Zero (CC0) 1.0 designation and the Terms and Conditions of artic.edu.",
+    "license_links": [
+      "https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/",
+      "https:\/\/www.artic.edu\/terms"
+    ],
+    "version": "1.13"
+  },
+  "config": {
+    "iiif_url": "https:\/\/www.artic.edu\/iiif\/2",
+    "website_url": "http:\/\/www.artic.edu"
+  }
+}
